@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #713907;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="path14" class="st0" d="M100,400h300V100H100v300Z" inkscape:connector-curvature="0"/>
+  <rect class="st1" x="155.9" y="196.6" width="188.2" height="155"/>
+  <polygon class="st1" points="201.9 185.6 250 148.8 298.3 185.6 201.9 185.6"/>
+  <polygon class="st1" points="184.8 163.1 214 163.1 184.8 185.6 155.9 185.6 184.8 163.1"/>
+  <polygon class="st1" points="286.1 163.1 315.1 163.1 343.8 185.6 315 185.6 286.1 163.1"/>
+  <polygon class="st0" points="206.9 228.2 250.1 210.7 293.1 228.2 206.9 228.2"/>
+  <rect class="st0" x="223.2" y="240" width="53.6" height="77.6"/>
+  <rect class="st0" x="283" y="240" width="12.3" height="77.6" transform="translate(578.2 557.6) rotate(180)"/>
+  <rect class="st0" x="205.3" y="240" width="12.3" height="77.6" transform="translate(423 557.6) rotate(180)"/>
+  <rect class="st0" x="195" y="328.6" width="110.1" height="12.2"/>
+</svg>
