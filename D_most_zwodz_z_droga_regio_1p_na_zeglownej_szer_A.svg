@@ -14,13 +14,8 @@
       .st2 {
         fill: #80a080;
       }
-
-      .st3 {
-        fill: #fff;
-      }
     </style>
   </defs>
-  <rect class="st3" x=".5" y="0" width="500" height="500"/>
   <g>
     <path d="M250,0v200M250,500v-200"/>
     <path class="st1" d="M300,500h-100v-200h100v200ZM300,200h-100V0h100v200Z"/>
