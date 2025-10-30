@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #039;
+      }
+
+      .st1 {
+        fill: #ac9393;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="87.5" y="87.5" width="325" height="500" transform="translate(-87.5 587.5) rotate(-90)"/>
+  <rect class="st1" x="220" y="-105" width="60" height="500" transform="translate(105 395) rotate(-90)"/>
+  <g>
+    <rect class="st1" x="340.5" y="197.8" width="60" height="14.4" transform="translate(165.5 575.5) rotate(-90)"/>
+    <rect class="st1" x="292.3" y="197.8" width="60" height="14.4" transform="translate(117.3 527.3) rotate(-90)"/>
+    <rect class="st1" x="244.1" y="197.8" width="60" height="14.4" transform="translate(69.1 479.1) rotate(-90)"/>
+    <rect class="st1" x="195.9" y="197.8" width="60" height="14.4" transform="translate(20.9 430.9) rotate(-90)"/>
+    <rect class="st1" x="147.7" y="197.8" width="60" height="14.4" transform="translate(-27.3 382.7) rotate(-90)"/>
+    <rect class="st1" x="99.5" y="197.8" width="60" height="14.4" transform="translate(-75.5 334.5) rotate(-90)"/>
+  </g>
+</svg>
