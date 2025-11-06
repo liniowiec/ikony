@@ -12,14 +12,16 @@
       }
     </style>
   </defs>
-  <rect class="st0" x="200" y="30" width="100" height="500" transform="translate(530 30) rotate(90)"/>
-  <rect class="st1" x="220" y="-50" width="60" height="500" transform="translate(450 -50) rotate(90)"/>
+  <rect class="st1" x="220" y="-80" width="60" height="500" transform="translate(420 -80) rotate(90)"/>
   <g>
-    <rect class="st1" x="340.5" y="252.8" width="60" height="14.4" transform="translate(630.5 -110.5) rotate(90)"/>
-    <rect class="st1" x="292.3" y="252.8" width="60" height="14.4" transform="translate(582.3 -62.3) rotate(90)"/>
-    <rect class="st1" x="244.1" y="252.8" width="60" height="14.4" transform="translate(534.1 -14.1) rotate(90)"/>
-    <rect class="st1" x="195.9" y="252.8" width="60" height="14.4" transform="translate(485.9 34.1) rotate(90)"/>
-    <rect class="st1" x="147.7" y="252.8" width="60" height="14.4" transform="translate(437.7 82.3) rotate(90)"/>
-    <rect class="st1" x="99.5" y="252.8" width="60" height="14.4" transform="translate(389.5 130.5) rotate(90)"/>
+    <rect class="st0" x="200" width="100" height="500" transform="translate(500 0) rotate(90)"/>
+    <g>
+      <rect class="st1" x="340.5" y="222.8" width="60" height="14.4" transform="translate(600.5 -140.5) rotate(90)"/>
+      <rect class="st1" x="292.3" y="222.8" width="60" height="14.4" transform="translate(552.3 -92.3) rotate(90)"/>
+      <rect class="st1" x="244.1" y="222.8" width="60" height="14.4" transform="translate(504.1 -44.1) rotate(90)"/>
+      <rect class="st1" x="195.9" y="222.8" width="60" height="14.4" transform="translate(455.9 4.1) rotate(90)"/>
+      <rect class="st1" x="147.7" y="222.8" width="60" height="14.4" transform="translate(407.7 52.3) rotate(90)"/>
+      <rect class="st1" x="99.5" y="222.8" width="60" height="14.4" transform="translate(359.5 100.5) rotate(90)"/>
+    </g>
   </g>
 </svg>
