@@ -21,7 +21,7 @@
     </style>
   </defs>
   <path class="st0" d="M235.4,203.3"/>
-  <rect class="st3" width="500" height="500"/>
+  <rect class="st3" x="80" y="136.25" width="340" height="227.5"/>
   <g>
     <rect class="st2" x="100" y="156.25" width="300" height="187.5"/>
     <rect class="st1" x="100" y="156.25" width="300" height="93.75"/>
