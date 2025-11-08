@@ -12,8 +12,8 @@
       }
     </style>
   </defs>
-  <rect class="st0" x="150" y="0" width="200" height="500" transform="translate(500 500) rotate(-180)"/>
-  <path class="st1" d="M106,144"/>
-  <polygon class="st0" points="39.94 150 40.2 350 110.4 350 110.4 276.98 110.4 150 39.94 150"/>
-  <polygon class="st0" points="89.73 250 89.99 350 160.19 350 160.19 313.49 160.19 250 89.73 250"/>
+  <rect class="st0" x="175" width="150" height="500"/>
+  <path class="st1" d="M394,144"/>
+  <polygon class="st0" points="460.1 235.8 325 100 225 100 419 294 460.1 335.1 460.1 235.8"/>
+  <polygon class="st0" points="475 400 475 250 375 150.23 375 347.4 375 400 475 400"/>
 </svg>
