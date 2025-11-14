@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: RobotoCondensed-Regular, 'Roboto Condensed';
+        font-size: 342.56px;
+      }
+
+      .st0, .st1 {
+        isolation: isolate;
+      }
+
+      .st0, .st2 {
+        fill: #001e7f;
+      }
+    </style>
+  </defs>
+  <path class="st2" d="M455.7,0H44.3C19.8,0,0,19.8,0,44.3h0v411.4h0c0,24.5,19.8,44.3,44.3,44.3h411.4c24.5,0,44.3-19.8,44.3-44.3h0V44.3h0c0-24.5-19.8-44.3-44.3-44.3h0ZM368.9,455.7h-237.9c-24.5,0-44.3-19.8-44.3-44.3V88.6c0-24.5,19.8-44.3,44.3-44.3h237.9c24.5,0,44.3,19.8,44.3,44.3v322.9c0,24.5-19.8,44.3-44.3,44.3v-.1Z"/>
+  <g class="st1">
+    <text class="st0" transform="translate(165.89 372.38)"><tspan x="0" y="0">9</tspan></text>
+  </g>
+</svg>
