@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #039;
+      }
+
+      .st1 {
+        fill: red;
+      }
+
+      .st2 {
+        fill: #00c800;
+      }
+
+      .st3 {
+        fill: #ac9393;
+      }
+
+      .st4 {
+        fill: #2ca05a;
+      }
+    </style>
+  </defs>
+  <rect class="st0" width="500" height="500"/>
+  <g>
+    <path class="st4" d="M391.32,144"/>
+    <rect class="st3" x="40.32" y="299.61" width="90" height="33.67"/>
+    <rect class="st2" x="62.39" y="95.79" width="45.87" height="45.87"/>
+    <polygon class="st2" points="62.78 150.59 107.87 150.59 116.53 311.73 54.12 311.73 62.78 150.59"/>
+    <rect class="st3" x="369.68" y="299.61" width="90" height="33.67"/>
+    <rect class="st1" x="391.74" y="95.79" width="45.87" height="45.87"/>
+    <polygon class="st1" points="392.13 150.59 437.22 150.59 445.88 311.73 383.47 311.73 392.13 150.59"/>
+  </g>
+  <g>
+    <path class="st4" d="M391.32,144"/>
+    <rect class="st3" x="40.32" y="299.61" width="90" height="33.67"/>
+    <rect class="st2" x="62.39" y="95.79" width="45.87" height="45.87"/>
+    <polygon class="st2" points="62.78 150.59 107.87 150.59 116.53 311.73 54.12 311.73 62.78 150.59"/>
+    <rect class="st3" x="369.68" y="299.61" width="90" height="33.67"/>
+    <rect class="st1" x="391.74" y="95.79" width="45.87" height="45.87"/>
+    <polygon class="st1" points="392.13 150.59 437.22 150.59 445.88 311.73 383.47 311.73 392.13 150.59"/>
+  </g>
+</svg>
