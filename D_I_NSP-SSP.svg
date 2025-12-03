@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
-  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
-  <defs>
-    <style>
-      .st0 {
-        fill: #2ca05a;
-      }
-    </style>
-  </defs>
-  <rect class="st0" width="500" height="500"/>
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_598_583)">
+<path d="M500 0H0V500H500V0Z" fill="#379976"/>
+</g>
+<defs>
+<clipPath id="clip0_598_583">
+<rect width="500" height="500" fill="white"/>
+</clipPath>
+</defs>
 </svg>

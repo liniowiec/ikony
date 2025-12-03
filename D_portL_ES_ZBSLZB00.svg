@@ -1,19 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
-  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
-  <defs>
-    <style>
-      .st0 {
-        fill: #039;
-      }
-
-      .st1 {
-        fill: #2ca05a;
-      }
-    </style>
-  </defs>
-  <rect class="st0" x="175" width="150" height="500"/>
-  <path class="st1" d="M394,144"/>
-  <polygon class="st1" points="375 100 375 290.47 375 400 474.63 400 475 100 375 100"/>
-  <polygon class="st1" points="325 250 325 345.24 325 400 388 400 388.23 250 325 250"/>
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M325 0H175V500H325V0Z" fill="#003399"/>
+<path d="M375 100V290.47V400H474.63L475 100H375Z" fill="#379976"/>
+<path d="M325 250V345.24V400H388L388.23 250H325Z" fill="#379976"/>
 </svg>
