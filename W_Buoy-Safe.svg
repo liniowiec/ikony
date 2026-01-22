@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 500 500">
-  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
   <defs>
     <style>
-      .st0, .st1 {
+      .st0 {
+        fill: #b70000;
+      }
+
+      .st1, .st2 {
         isolation: isolate;
       }
 
       .st2 {
         fill: #fff;
-      }
-
-      .st3 {
-        fill: #ff6e6e;
-      }
-
-      .st1 {
         font-family: OpenSans-Extrabold, 'Open Sans';
         font-size: 272.7px;
         font-weight: 700;
       }
     </style>
   </defs>
-  <rect class="st2" x="86" y="31.2" width="394" height="436.08"/>
-  <rect class="st3" y="35.7" width="118.2" height="424.2"/>
-  <rect class="st3" x="228.2" y="31.2" width="125" height="428.7"/>
-  <g class="st0">
-    <g class="st0">
-      <text class="st1" transform="translate(85 345.4)"><tspan x="0" y="0">K6</tspan></text>
+  <path class="st0" d="M455.7,0H44.3C19.8,0,0,19.8,0,44.3h0v411.4h0c0,24.5,19.8,44.3,44.3,44.3h411.4c24.5,0,44.3-19.8,44.3-44.3h0V44.3h0C500,19.8,480.2,0,455.7,0h0Z"/>
+  <g class="st1">
+    <g class="st1">
+      <g class="st1">
+        <text class="st2" transform="translate(85 345.4)"><tspan x="0" y="0">K6</tspan></text>
+      </g>
     </g>
   </g>
-  <path class="st3" d="M455.7,0H44.3C19.8,0,0,19.8,0,44.3h0v411.4h0c0,24.5,19.8,44.3,44.3,44.3h411.4c24.5,0,44.3-19.8,44.3-44.3h0V44.3h0c0-24.5-19.8-44.3-44.3-44.3h0ZM411.4,455.7H88.6c-24.5,0-44.3-19.8-44.3-44.3V88.6c0-24.5,19.8-44.3,44.3-44.3h322.9c24.5,0,44.3,19.8,44.3,44.3v322.9c0,24.5-19.8,44.3-44.3,44.3h-.1v-.1Z"/>
 </svg>
